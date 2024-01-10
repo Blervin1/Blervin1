@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Web Development
 -------------------------
 
-Currently, I am immersed in the study of Front-end Web Development, with a focus on utilizing the Tailwind CSS framework. Tailwind provides powerful tools for styling web pages, and I actively apply them in my ongoing projects. However, my learning path extends beyond just this tool. In the next phase of my education, I plan to delve into learning JavaScript, a key programming language for Front-end developers. This stage is aimed not only at creating stylish interfaces but also at developing functional and appealing web applications with an emphasis on user interaction. While I am actively using Tailwind CSS at the moment, I recognize the need for diversity in development tools. My ultimate goal is to become a developer capable of not only crafting aesthetic designs but also ensuring a comprehensive and satisfactory user experience using various technologies.
+I am currently immersed in the study of Front-end Web Development, with a primary focus on mastering JavaScript as a key programming language for Front-end development. While I initially delved into styling web pages using the Tailwind CSS framework, I have shifted my focus towards a more in-depth exploration of JavaScript. My goal in this phase is to not only create visually appealing interfaces but also to develop functional and engaging web applications with a strong emphasis on user interaction.
+
+Although Tailwind CSS has been a valuable tool in my learning journey, I recognize the importance of diversifying my skill set by exploring different technologies. I am actively using JavaScript to build a solid foundation for my development skills, and my ultimate objective is to become a well-rounded developer capable of crafting both aesthetically pleasing designs and ensuring a comprehensive and satisfactory user experience through the use of various technologies
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [blervin121212@gmail.com](mailto:blervin121212@gmail.com)
