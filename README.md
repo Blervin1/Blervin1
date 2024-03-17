@@ -4,9 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Web Development
 -------------------------
 
-I am currently immersed in the study of Front-end Web Development, with a primary focus on mastering JavaScript as a key programming language for Front-end development. While I initially delved into styling web pages using the Tailwind CSS framework, I have shifted my focus towards a more in-depth exploration of JavaScript. My goal in this phase is to not only create visually appealing interfaces but also to develop functional and engaging web applications with a strong emphasis on user interaction.
+Currently, I am fully immersed in the study of React.js, a powerful JavaScript library for building dynamic user interfaces. My focus lies in mastering React.js as a cornerstone technology for Front-end development. I have redirected my efforts towards a deep dive into React.js.
 
-Although Tailwind CSS has been a valuable tool in my learning journey, I recognize the importance of diversifying my skill set by exploring different technologies. I am actively using JavaScript to build a solid foundation for my development skills, and my ultimate objective is to become a well-rounded developer capable of crafting both aesthetically pleasing designs and ensuring a comprehensive and satisfactory user experience through the use of various technologies
+My primary objective in this phase is not only to craft visually stunning interfaces but also to engineer robust and interactive web applications that prioritize seamless user experiences.
+
+I acknowledge the significance of broadening my skill set. Consequently, I am actively engaged in mastering React.js to establish a strong foundation in Front-end development. Looking forward, I aspire to become a versatile developer adept at creating captivating designs and delivering immersive user experiences through a blend of cutting-edge technologies.
+
+Following my exploration of React.js, I intend to transition into backend development, further enriching my capabilities and contributing to the creation of comprehensive, full-stack solutions.
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [blervin121212@gmail.com](mailto:blervin121212@gmail.com)
