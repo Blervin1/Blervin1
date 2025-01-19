@@ -4,17 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Web Development
 -------------------------
 
-Currently, I am fully immersed in the study of React.js, a powerful JavaScript library for building dynamic user interfaces. My focus lies in mastering React.js as a cornerstone technology for Front-end development. I have redirected my efforts towards a deep dive into React.js.
-
-My primary objective in this phase is not only to craft visually stunning interfaces but also to engineer robust and interactive web applications that prioritize seamless user experiences.
-
-I acknowledge the significance of broadening my skill set. Consequently, I am actively engaged in mastering React.js to establish a strong foundation in Front-end development. Looking forward, I aspire to become a versatile developer adept at creating captivating designs and delivering immersive user experiences through a blend of cutting-edge technologies.
-
-Following my exploration of React.js, I intend to transition into backend development, further enriching my capabilities and contributing to the creation of comprehensive, full-stack solutions.
-
-* 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [blervin121212@gmail.com](mailto:blervin121212@gmail.com)
-* 🧠  I'm learning Tailwind CSS
+* 🧠  I'm learning React + TypeScript
 
 ### Skills
 
